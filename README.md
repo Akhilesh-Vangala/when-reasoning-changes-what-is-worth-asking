@@ -2,18 +2,9 @@
 
 **Bounded Information Seeking in Humans and Language Models**
 
-Final project for Computational Cognitive Modeling (NYU, Fall 2026).
-
-## Team
-
-- Akhilesh Vangala
-- Sanvi Jagtap
-- Lucas Yao
-- Lam Tran Bach
-
 ## Overview
 
-People playing Mastermind trade informativity for interpretability: they favor queries whose feedback they can interpret, even when other queries are more informative (Cheyette et al., 2025). This project implements and extends that work to ask whether language models show the same trade-off, and whether independent measures of how they process evidence can predict how a reasoning aid changes which questions are worth asking.
+People playing Mastermind trade informativity for interpretability: they favor queries whose feedback they can interpret, even when other queries are more informative (Cheyette et al., 2025). This project extends that work to ask whether language models show the same trade-off, and whether independent measures of how they process evidence can predict how a reasoning aid changes which questions are worth asking.
 
 The project has three parts:
 
@@ -23,7 +14,7 @@ The project has three parts:
 
 ## Status
 
-Proposal stage. Code and results will be added as the project progresses.
+Work in progress. Code and results will be added as the project develops.
 
 ## References
 
